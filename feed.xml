@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Omni</title>
+    <link>https://kaylad4-lgtm.github.io/omni-podcast</link>
+    <description>Feed on everything. Daily digest of news, podcasts, finance, art, sports, and real estate.</description>
+    <language>en-us</language>
+    <itunes:author>Omni</itunes:author>
+    <itunes:summary>Feed on everything. Daily briefings across news, finance, sports, art, real estate, and culture.</itunes:summary>
+    <itunes:image href="https://kaylad4-lgtm.github.io/omni-podcast/artwork.jpg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Omni</itunes:name>
+      <itunes:email>kayla.dixon4@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Omni Daily — Thursday, June 04, 2026</title>
+      <description><![CDATA[Welcome to Omni. Your daily briefing for Thursday, June 04, 2026. Feed on everything. Let's get into it.    New York Times.    Republicans Begin to Test the Limits of Trump’s Power by Flexing Their Own. The president’s unilateral and retributive style of governing is starting to hit a wall in both c]]></description>
+      <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-06-04.mp3" length="2354496" type="audio/mpeg"/>
+      <guid isPermaLink="false">omni-2026-06-04</guid>
+      <pubDate>Thu, 04 Jun 2026 10:06:57 +0000</pubDate>
+      <itunes:duration>4:04</itunes:duration>
+      <itunes:summary>Your daily briefing for Thursday, June 04, 2026. Feed on everything.</itunes:summary>
+    </item>
+
+  </channel>
+</rss>
