@@ -18,6 +18,15 @@
     </itunes:owner>
     <item>
       <title>Omni Daily — Thursday, June 04, 2026</title>
+      <description><![CDATA[Welcome to Omni. Your daily briefing for Thursday, June 04, 2026. Feed on everything. Let's get into it.    New York Times.    John Bolton, Ex-Trump Adviser, Reaches Deal to Plead Guilty Over Classified Information. The former Trump national security adviser plans to plead guilty to a count of illeg]]></description>
+      <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-06-04.mp3" length="2601600" type="audio/mpeg"/>
+      <guid isPermaLink="false">omni-2026-06-04</guid>
+      <pubDate>Thu, 04 Jun 2026 21:17:05 +0000</pubDate>
+      <itunes:duration>4:15</itunes:duration>
+      <itunes:summary>Your daily briefing for Thursday, June 04, 2026. Feed on everything.</itunes:summary>
+    </item>
+<item>
+      <title>Omni Daily — Thursday, June 04, 2026</title>
       <description><![CDATA[Welcome to Omni. Your daily briefing for Thursday, June 04, 2026. Feed on everything. Let's get into it.    New York Times.    Republicans Begin to Test the Limits of Trump’s Power by Flexing Their Own. The president’s unilateral and retributive style of governing is starting to hit a wall in both c]]></description>
       <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-06-04.mp3" length="2354496" type="audio/mpeg"/>
       <guid isPermaLink="false">omni-2026-06-04</guid>
@@ -25,6 +34,5 @@
       <itunes:duration>4:04</itunes:duration>
       <itunes:summary>Your daily briefing for Thursday, June 04, 2026. Feed on everything.</itunes:summary>
     </item>
-
   </channel>
 </rss>
