@@ -17,6 +17,15 @@
       <itunes:email>kayla.dixon4@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>Omni Daily — Monday, June 29, 2026</title>
+      <description><![CDATA[Your daily briefing for Monday, June 29, 2026. Feed on everything.]]></description>
+      <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-06-29.mp3" length="10047789" type="audio/mpeg"/>
+      <guid isPermaLink="false">omni-2026-06-29</guid>
+      <pubDate>Mon, 29 Jun 2026 21:10:08 +0000</pubDate>
+      <itunes:duration>10:27</itunes:duration>
+      <itunes:summary>Your daily briefing for Monday, June 29, 2026. Feed on everything.</itunes:summary>
+    </item>
+<item>
       <title>Omni Daily — Sunday, June 28, 2026</title>
       <description><![CDATA[Your daily briefing for Sunday, June 28, 2026. Feed on everything.]]></description>
       <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-06-28.mp3" length="7406637" type="audio/mpeg"/>
