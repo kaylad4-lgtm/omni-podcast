@@ -17,6 +17,15 @@
       <itunes:email>kayla.dixon4@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>Omni Daily — Saturday, July 04, 2026</title>
+      <description><![CDATA[Your daily briefing for Saturday, July 04, 2026. Feed on everything.]]></description>
+      <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-07-04.mp3" length="9123117" type="audio/mpeg"/>
+      <guid isPermaLink="false">omni-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 18:18:11 +0000</pubDate>
+      <itunes:duration>9:30</itunes:duration>
+      <itunes:summary>Your daily briefing for Saturday, July 04, 2026. Feed on everything.</itunes:summary>
+    </item>
+<item>
       <title>Omni Daily — Friday, July 03, 2026</title>
       <description><![CDATA[Your daily briefing for Friday, July 03, 2026. Feed on everything.]]></description>
       <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-07-03.mp3" length="7230765" type="audio/mpeg"/>
@@ -275,15 +284,6 @@
       <guid isPermaLink="false">omni-2026-06-04</guid>
       <pubDate>Thu, 04 Jun 2026 21:17:05 +0000</pubDate>
       <itunes:duration>4:15</itunes:duration>
-      <itunes:summary>Your daily briefing for Thursday, June 04, 2026. Feed on everything.</itunes:summary>
-    </item>
-<item>
-      <title>Omni Daily — Thursday, June 04, 2026</title>
-      <description><![CDATA[Welcome to Omni. Your daily briefing for Thursday, June 04, 2026. Feed on everything. Let's get into it.    New York Times.    Republicans Begin to Test the Limits of Trump’s Power by Flexing Their Own. The president’s unilateral and retributive style of governing is starting to hit a wall in both c]]></description>
-      <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-06-04.mp3" length="2354496" type="audio/mpeg"/>
-      <guid isPermaLink="false">omni-2026-06-04</guid>
-      <pubDate>Thu, 04 Jun 2026 10:06:57 +0000</pubDate>
-      <itunes:duration>4:04</itunes:duration>
       <itunes:summary>Your daily briefing for Thursday, June 04, 2026. Feed on everything.</itunes:summary>
     </item>
   </channel>
