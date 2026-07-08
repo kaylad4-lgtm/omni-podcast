@@ -17,6 +17,15 @@
       <itunes:email>kayla.dixon4@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>Omni Daily — Wednesday, July 08, 2026</title>
+      <description><![CDATA[Your daily briefing for Wednesday, July 08, 2026. Feed on everything.]]></description>
+      <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-07-08.mp3" length="7428525" type="audio/mpeg"/>
+      <guid isPermaLink="false">omni-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 16:27:28 +0000</pubDate>
+      <itunes:duration>7:44</itunes:duration>
+      <itunes:summary>Your daily briefing for Wednesday, July 08, 2026. Feed on everything.</itunes:summary>
+    </item>
+<item>
       <title>Omni Daily — Tuesday, July 07, 2026</title>
       <description><![CDATA[Your daily briefing for Tuesday, July 07, 2026. Feed on everything.]]></description>
       <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-07-07.mp3" length="7980717" type="audio/mpeg"/>
@@ -276,15 +285,6 @@
       <pubDate>Mon, 08 Jun 2026 21:29:11 +0000</pubDate>
       <itunes:duration>4:47</itunes:duration>
       <itunes:summary>Your daily briefing for Monday, June 08, 2026. Feed on everything.</itunes:summary>
-    </item>
-<item>
-      <title>Omni Daily — Sunday, June 07, 2026</title>
-      <description><![CDATA[Welcome to Omni. Your daily briefing for Sunday, June 07, 2026. Feed on everything. Let's get into it.    New York Times.    Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates. U.S. efforts for a truce in Lebanon appear to have stalled. Israel accused Hezbollah of firing at Israeli t]]></description>
-      <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-06-07.mp3" length="2707968" type="audio/mpeg"/>
-      <guid isPermaLink="false">omni-2026-06-07</guid>
-      <pubDate>Sun, 07 Jun 2026 19:58:16 +0000</pubDate>
-      <itunes:duration>4:27</itunes:duration>
-      <itunes:summary>Your daily briefing for Sunday, June 07, 2026. Feed on everything.</itunes:summary>
     </item>
   </channel>
 </rss>
