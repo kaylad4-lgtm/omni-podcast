@@ -17,6 +17,15 @@
       <itunes:email>kayla.dixon4@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>Omni Daily — Saturday, August 01, 2026</title>
+      <description><![CDATA[Your daily briefing for Saturday, August 01, 2026. Feed on everything.]]></description>
+      <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-08-01.mp3" length="8706861" type="audio/mpeg"/>
+      <guid isPermaLink="false">omni-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 15:57:29 +0000</pubDate>
+      <itunes:duration>9:04</itunes:duration>
+      <itunes:summary>Your daily briefing for Saturday, August 01, 2026. Feed on everything.</itunes:summary>
+    </item>
+<item>
       <title>Omni Daily — Friday, July 31, 2026</title>
       <description><![CDATA[Your daily briefing for Friday, July 31, 2026. Feed on everything.]]></description>
       <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-07-31.mp3" length="7126701" type="audio/mpeg"/>
@@ -276,15 +285,6 @@
       <pubDate>Fri, 03 Jul 2026 18:54:39 +0000</pubDate>
       <itunes:duration>7:31</itunes:duration>
       <itunes:summary>Your daily briefing for Friday, July 03, 2026. Feed on everything.</itunes:summary>
-    </item>
-<item>
-      <title>Omni Daily — Thursday, July 02, 2026</title>
-      <description><![CDATA[Your daily briefing for Thursday, July 02, 2026. Feed on everything.]]></description>
-      <enclosure url="https://kaylad4-lgtm.github.io/omni-podcast/episodes/2026-07-02.mp3" length="10172973" type="audio/mpeg"/>
-      <guid isPermaLink="false">omni-2026-07-02</guid>
-      <pubDate>Thu, 02 Jul 2026 20:10:24 +0000</pubDate>
-      <itunes:duration>10:35</itunes:duration>
-      <itunes:summary>Your daily briefing for Thursday, July 02, 2026. Feed on everything.</itunes:summary>
     </item>
   </channel>
 </rss>
